@@ -8,7 +8,7 @@
     "dev": "NODE_ENV=development nodemon index.js"
   },
   "keywords": [],
-  "author": "Bayu Mahadika",
+  "author": "izhar dev",
   "license": "ISC",
   "description": "Script Base WhatsApp Bot",
   "devDependencies": {
